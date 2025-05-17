@@ -1,0 +1,8 @@
+numpy
+scipy
+matplotlib
+ursina
+scikit-image 
+numpy
+scipy
+matplotlib
